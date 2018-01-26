@@ -1,0 +1,10 @@
+Tagi (nazwy punktów) na schematach przyk³adowo:
+TI0001 -Temperature indication - wskazanie temperatury;
+TC0001 - Temperature control - nastawa regulatora temperatury;
+FI0001 - Flow indication - wskanie przep³ywu;
+FC0001 - Flow control - nastawa regulatora przep³ywu;
+FQ0001 - Flow quantity - licznik przep³ywu;
+LI0001 - Level indication - wskazanie poziomu (np w kolumnie, zbiorniku)
+LC0001 - Level control - nastawa regulatora poziomu;
+PC0001 - Pressure control - nastawa regulatora ciœnienia;
+PI0001 - Pressure indication - wskazanie ciœnienia;

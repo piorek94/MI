@@ -1,0 +1,2 @@
+PI0220 (dolna polka kolumny)
+TI0263 (wyjście z drugiego wymiennika ciepła w orosieniu A22 - teoretycznie to samo co TI0278)
